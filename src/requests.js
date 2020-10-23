@@ -1,3 +1,4 @@
+// todo: remove api key from checked in file
 const API_KEY = "eb8ea470aa29302a44d47a8e183f910b";
 
 const requests = {
